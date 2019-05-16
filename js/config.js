@@ -10,11 +10,11 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "ArcticNetworks";
+var l_serverName = "NimbusNetworks";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -126,6 +126,14 @@ var l_messages = [
 	"A platoon!",
 	"What's the Main Mission of the Marines?",
 	"To make sure the Army never get their feet wet.",
+	"What's the Difference Between the Army and the Boy Scouts?",
+	"The Boy Scouts have adult supervision.",
+	"How Do You Knock Out a Marine Drinking Water?",
+	"Slam the toilet lid on his head.",
+	"How Many American Officers Does It Take to Screw in a Light Bulb?",
+	"Only one, but they do it from 30 miles away using laser targeting at a cost of $8.3 million.",
+	"Why Was the Sergeant Upset That His Son Got an A in Math?",
+	"Because he spent more time dividing than conquering!",
 	
 	
 ];
